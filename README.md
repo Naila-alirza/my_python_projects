@@ -1,1 +1,1 @@
-# customers_project
+# my_project
